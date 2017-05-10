@@ -21,3 +21,65 @@ nombre:"fabian",
 ()=> myFunction();
 
 //revisar las respuestas
+
+En que falla esta función:
+function mitad(var numero){ return numero/2; }
+•	Está escrita en una sola línea
+•	No declara el tipo de función
+•	La palabra return es innecesaria
+•	var no se escribe en los parámetros (RESPUESTA)
+-Para declarar un entero en javascript usamos la palabra reservada:
+•	var (RESPUESTA)
+•	int
+•	Integer
+•	Struct
+-Que se despliega en consola con el siguiente código:
+if(0){ console.log('verdadero ') }else{ console.log('falso') }
+•	No se imprime nada porque está escrito en una sola línea
+•	Da error ya que se deben usar variables dentro de “if”
+•	Imprime verdadero
+•	Imprime falso (RESPUESTA)
+-Para borrar el último elemento de un arreglo en Js usamos:
+•	splice
+•	delete
+•	pop (RESPUESTA)
+•	fetch
+-Para añadir un elemento al final del arreglo en Js usamos:
+•	splice
+•	add
+•	pop
+•	push (RESPUESTA)
+-Para añadir o borrar elementos en un arreglo en Js usamos:
+•	splice (RESPUESTA)
+•	add
+•	pop
+•	push
+- ¿Qué hace falta en el código?
+var a;
+a = “cuatro”;
+a = 4;
+•	Nada (RESPUESTA)
+•	Castear la transformación de string a numero
+•	Definir un valor a la variable “a”
+•	Definir el tipo de variable al asignarle de undefined a string
+- ¿Qué hace falta en el código?
+var usuarios = {
+nombre:”fabian”,
+},
+{
+	nombre:”alberto”
+}; 
+•	Nada
+•	Una coma
+•	Unos []
+•	Quitar el punto y coma al final del objeto
+- ¿Qué función corre con Ecmascript 5?
+•	function:myFunction()
+•	function myFunction()
+•	function = myFunction()
+•	()=> myFunction() (RESPUESTA)
+- ¿Cuál if está bien escrito 5 en JavasScript?
+•	if (i <> 5) 
+•	if (i == 5) (RESPUESTA)
+•	if i <> 5
+•	if i =! 5 then
