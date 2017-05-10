@@ -1,0 +1,21 @@
+function mitad( numero){ return numero/2; }
+mitad(2);
+var	 a=0;
+if(0){
+   console.log('verdadero ');
+	}else{
+    console.log('falso');
+	}
+//pop elimina el ultimo elemento del arreglo
+//push añade al final
+//shift Elimina el primer elemento del array y lo devuelve
+var a;
+a = "cuatro";
+a = 4;
+var usuarios = [{
+nombre:"fabian",
+},
+{
+	nombre:"alberto"
+}];
+()=> myFunction()
